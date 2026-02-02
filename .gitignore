@@ -1,0 +1,9 @@
+# Ignorar dependencias de Node
+node_modules/
+
+# Ignorar variables de entorno (SEGURIDAD)
+.env
+
+# Archivos de sistema y logs
+npm-debug.log*
+.DS_Store
