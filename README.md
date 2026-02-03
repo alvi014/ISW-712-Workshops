@@ -1,4 +1,4 @@
-# Software Engineering II (ISW-712)
+# Web Environment Programming II (ISW-711)
 Repository for delivering course workshops and labs.
 
 ## Student Information
